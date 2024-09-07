@@ -1,6 +1,4 @@
-<h1 align="center"> Projeto RocketSgit remote add origin https://github.com/evicsss/projetorocketseat.git
-git branch -M main
-git push -u origin mainead </h1>
+<h1 align="center"> Projeto RocketSeat</h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -34,5 +32,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto de desenvolvimento Web, o DevLinks é um agregador de links para usar como cartão de visitas online.
-
-# projetorocketseat
